@@ -1,6 +1,6 @@
 describe('Test Math Functions Page', function() {
 	const eng_func_call = {
-		0: 'The Fibonacci Sequence',
+	    0: 'The Fibonacci Sequence',
 	    1: 'The Greatest Common Divisor',
 	    2: 'The Factorial Function',
 	    3: 'Check Prime',
